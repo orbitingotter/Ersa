@@ -1,0 +1,5 @@
+# Visual Code Intermediates
+.vscode/
+
+# CMake Build Files
+Build/
